@@ -12,7 +12,7 @@ function Footer() {
             <FacebookIcon/>
             <LinkedInIcon/>
         </div>
-        <p> &copy; 2023 marvinpatangan.com</p>
+        <p> &copy; 2023 marvinpatangan.vercel.app</p>
     </div>
   )
 }

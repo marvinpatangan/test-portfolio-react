@@ -1,24 +1,34 @@
 import PlaceHolder from '../assets/placeholder.png'
+import Tyangami from '../assets/tyangami.png'
+import Athena from '../assets/athena.png'
+import Aqms from '../assets/aqms.png'
+import Upsurge from '../assets/upsurge.png'
+import Rezaku from '../assets/rezaku.jpg'
 
 export const projectList = [
     {
         name: "Air Quality Tester And Monitoring System Dashboard",
-        image: PlaceHolder,
+        image: Aqms,
         skills: "React, CSS, and Firebase",
     },
     {
+        name: "Athena",
+        image: Athena,
+        skills: "Java and Firebase"
+    },
+    {
         name: "TYANGAMI: PUP Students Vaccine Tracker",
-        image: PlaceHolder,
+        image: Tyangami,
         skills: "HTML and PHP",
     },
     {
         name: "UPSURGE!",
-        image: PlaceHolder,
+        image: Upsurge,
         skills: "C#",
     },
     {
         name: "REZAKU: Recipe Application",
-        image: PlaceHolder,
+        image: Rezaku,
         skills: "Java and Firebase",
     },
     
